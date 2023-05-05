@@ -7324,7 +7324,7 @@ input[type=color]::placeholder {
   margin: -30px 0 0 -30px;
   background: #a0879f;
   /* border-radius: 80%; */
-  background-image: url("./../../assets/images/common/Hi.gif");
+  /* background-image: url("./../../assets/images/common/Hi.gif"); */
   background-repeat: no-repeat;
   background-position: center center;
   /* animation: preload 2s linear infinite alternate;
